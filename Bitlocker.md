@@ -36,3 +36,5 @@ Link cards with generic responses or 'copy pastas' that can be sent to users. Li
 Reed, 4/16/2024
 
 Cristobal, 6/8/2023
+
+https://app.getguru.com/card/T78q9dpc/Regroup regroup card redo
